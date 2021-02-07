@@ -1,17 +1,17 @@
 {
     "films": [
         {
-            "poster_path": "https://image.tmdb.org/t/p/w300/xBHvZcjRiWyobQ9kxBhO6B2dtRI.jpg",
+            "poster_path": "https://themoviedb.org/t/p/w300/xBHvZcjRiWyobQ9kxBhO6B2dtRI.jpg",
             "id": 1,
             "title": "Ad Astra"
         },
         {
-            "poster_path": "https://image.tmdb.org/t/p/w300/wlfDxbGEsW58vGhFljKkcR5IxDj.jpg",
+            "poster_path": "https://themoviedb.org/t/p/w300/wlfDxbGEsW58vGhFljKkcR5IxDj.jpg",
             "id": 2,
             "title": "Extraction"
         },
         {
-            "poster_path": "https://image.tmdb.org/t/p/w300/8WUVHemHFH2ZIP6NWkwlHWsyrEL.jpg",
+            "poster_path": "https://themoviedb.org/t/p/w300/8WUVHemHFH2ZIP6NWkwlHWsyrEL.jpg",
             "id": 3,
             "title": "Bloodshot"
         },
@@ -21,7 +21,7 @@
             "title": "The Call of the Wild"
         },
         {
-            "poster_path": "https://image.tmdb.org/t/p/w300/c01Y4suApJ1Wic2xLmaq1QYcfoZ.error",
+            "poster_path": "https://themoviedb.org/t/p/w300/c01Y4suApJ1Wic2xLmaq1QYcfoZ.error",
             "id": 5,
             "title": "Justice League Dark: Apokolips War"
         }
